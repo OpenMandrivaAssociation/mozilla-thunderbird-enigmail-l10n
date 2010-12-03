@@ -7,11 +7,11 @@
 
 %if %mandriva_branch == Cooker
 # Cooker
-%define release %mkrel 1
+%define release %mkrel 2
 %else
 # Old distros
 %define subrel 1
-%define release %mkrel 0
+%define release %mkrel 1
 %endif
 
 %define _buildroot %{_tmppath}/%{name}-buildroot
