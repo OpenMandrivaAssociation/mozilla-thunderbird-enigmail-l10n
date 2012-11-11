@@ -1,0 +1,25 @@
+sources:
+  "enigmail-ar-0.96.0.xpi:"	b991fdd16249a24cf0bebed48dff1b8405d74cad
+  "enigmail-ca-AD-0.96.0.xpi:"	8a0abbb90f8ca979c40dd72958bee65c9046c875
+  "enigmail-cs-CZ-0.96.0.xpi:"	9806954a9da7dca73eb833fb6cdefc7834251cf9
+  "enigmail-de-0.96.0.xpi:"	e584f34bad26bab3922cdb644c0ac6ddd9544bd6
+  "enigmail-el-0.96.0.xpi:"	ffa066487d7727f0a9fb38e33dea626a936a42f3
+  "enigmail-es-ES-0.96.0.xpi:"	9036c198fa423e4f9b5782752c50fdba7d730b16
+  "enigmail-fi-FI-0.96.0.xpi:"	065dfbe2738657a6a4b8ec761ad1de5b0e193715
+  "enigmail-fr-FR-0.96.0.xpi:"	6adb93c8ec536fb99d32f668c762a68bf5172ba1
+  "enigmail-hu-HU-0.96.0.xpi:"	b2375a5ba8de4a0a886fb027e189c6f19fa59708
+  "enigmail-it-IT-0.96.0.xpi:"	fa98a5cd57082b83d62e8ad561217f6b39210fc6
+  "enigmail-ja-JP-0.96.0.xpi:"	7aad1635430e95f8efb880f0086cd3d62f5858cc
+  "enigmail-ko-KR-0.96.0.xpi:"	4652fbf6a9b08bd45aaf8de8578ee3aeedc81108
+  "enigmail-nb-NO-0.96.0.xpi:"	e28367dcd17ec2117ddd102e2189de4534840041
+  "enigmail-nl-NL-0.96.0.xpi:"	03a9ba6c848f46755a6b2f74a5ee7068f0602f41
+  "enigmail-pl-PL-0.96.0.xpi:"	8ccc4f8f05bae56a53a7da798c5f0757d67ef824
+  "enigmail-pt-BR-0.96.0.xpi:"	a51af42963cfed49b8fd5376be1ec7571906d92a
+  "enigmail-pt-PT-0.96.0.xpi:"	c6e29631e98736d86aa94d6723f4f1e9bfe0f1d8
+  "enigmail-ru-RU-0.96.0.xpi:"	5e74408c6c2c7e8ae435963a12f90657ad633609
+  "enigmail-sl-SI-0.96.0.xpi:"	b02116975ee80386ea75bb80c2bd118fc695ddc9
+  "enigmail-sv-SE-0.96.0.xpi:"	681b0775e5a5751db49364758bee2d1891129b74
+  "enigmail-tr-TR-0.96.0.xpi:"	a8202d42349f62a5d2c32c5de0a3e6b56ffc242d
+  "enigmail-zh-CN-0.96.0.xpi:"	6d61af6952febfebd3b093bda694665bb2c96bda
+  "enigmail-zh-TW-0.96.0.xpi:"	20d75317d57cf5943076b59a6e3a9523ed2a1bb7
+  "mozilla-thunderbird-enigmail-l10n-template.spec:"	fdd6d1c5c67e41b5c5a5423d8e69e11670ffe10d
