@@ -104,7 +104,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Networking/Mail
-Url:		http://enigmail.mozdev.org/
+Url:		https://enigmail.mozdev.org/
 # Language package template
 Source0: %{name}-template.spec
 # l10n sources
